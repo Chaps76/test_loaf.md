@@ -1,6 +1,6 @@
 ## baker's percentages
 
-## White Loaf - standard
+## White Loaf - standard method
 
 Flour -- 100%
 Hydration -- 70%
